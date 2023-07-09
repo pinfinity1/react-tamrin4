@@ -3,7 +3,7 @@ export const Home = () => {
     <div className="relative text-zinc-400">
       <img
         src="../assets/maintext-bg.jpg"
-        alt=""
+        alt="hamburger image"
         className="w-full -z-10 max-h-screen "
       />
       <div className=" absolute top-1/4 left-20">
